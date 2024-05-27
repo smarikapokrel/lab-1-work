@@ -1,0 +1,15 @@
+body{
+  font-family: Georgia,serif;
+  text-align: center;
+}
+img{
+  display: block;
+  margin: auto;
+}
+h1,h2{
+  color: rgb(185, 9, 9);
+  font-family: Impact, sans-serif;
+ 
+}
+
+
